@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Blog</title>
-    <link>https://yuta1402.github.io/test-blog/</link>
-    <description>Recent content on Test Blog</description>
+    <title>hello on Test Blog</title>
+    <link>https://yuta1402.github.io/test-blog/tags/hello/</link>
+    <description>Recent content in hello on Test Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2019 21:42:59 +0900</lastBuildDate>
     
-	<atom:link href="https://yuta1402.github.io/test-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuta1402.github.io/test-blog/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -4,14 +4,37 @@
   
   <url>
     <loc>https://yuta1402.github.io/test-blog/categories/</loc>
+    <lastmod>2019-11-15T21:42:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuta1402.github.io/test-blog/tags/hello/</loc>
+    <lastmod>2019-11-15T21:42:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuta1402.github.io/test-blog/posts/2019-11-15-hello-world/</loc>
+    <lastmod>2019-11-15T21:42:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuta1402.github.io/test-blog/categories/misc/</loc>
+    <lastmod>2019-11-15T21:42:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuta1402.github.io/test-blog/posts/</loc>
+    <lastmod>2019-11-15T21:42:59+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://yuta1402.github.io/test-blog/tags/</loc>
+    <lastmod>2019-11-15T21:42:59+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://yuta1402.github.io/test-blog/</loc>
+    <lastmod>2019-11-15T21:42:59+09:00</lastmod>
   </url>
   
 </urlset>
