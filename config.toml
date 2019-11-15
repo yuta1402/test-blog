@@ -2,6 +2,7 @@ baseURL = "https://yuta1402.github.io/test-blog/"
 languageCode = "en-us"
 title = "Test Blog"
 theme = "hugo-theme-minos"
+canonifyurls = true
 
 [params]
     smartToc = true
