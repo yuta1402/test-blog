@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Test Blog"
+theme = "hugo-theme-minos"
+
+[params]
+    smartToc = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "categories"
+    url = "/categories/"
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags/"
+    weight = -110
