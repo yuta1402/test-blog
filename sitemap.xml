@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuta1402.github.io/test-blog/posts/20191116-check/</loc>
+    <lastmod>2019-11-16T19:05:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuta1402.github.io/test-blog/posts/</loc>
+    <lastmod>2019-11-16T19:05:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuta1402.github.io/test-blog/</loc>
+    <lastmod>2019-11-16T19:05:53+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yuta1402.github.io/test-blog/categories/</loc>
     <lastmod>2019-11-15T22:04:44+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://yuta1402.github.io/test-blog/categories/misc/</loc>
-    <lastmod>2019-11-15T22:04:44+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuta1402.github.io/test-blog/posts/</loc>
     <lastmod>2019-11-15T22:04:44+09:00</lastmod>
   </url>
   
@@ -29,11 +39,6 @@
   
   <url>
     <loc>https://yuta1402.github.io/test-blog/tags/test/</loc>
-    <lastmod>2019-11-15T22:04:44+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuta1402.github.io/test-blog/</loc>
     <lastmod>2019-11-15T22:04:44+09:00</lastmod>
   </url>
   
