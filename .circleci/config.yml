@@ -5,6 +5,9 @@ jobs:
       - image: cibuilds/hugo:latest
     steps:
       - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "${SSH_KEY_FINGERPRINT}"
       - run:
           name: Deploy
           command: make publish
