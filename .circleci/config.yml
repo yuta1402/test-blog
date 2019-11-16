@@ -6,8 +6,8 @@ jobs:
     steps:
       - checkout
       - run:
-        name: Deploy
-        command: make publish
+          name: Deploy
+          command: make publish
 workflows:
   version: 2
   main:
