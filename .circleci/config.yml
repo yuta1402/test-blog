@@ -1,0 +1,15 @@
+version: 2
+jobs:
+  deploy:
+    docker:
+      - image: cibuilds/hugo:latest
+    steps:
+      - checkout
+      - run:
+        name: Deploy
+        command: make publish
+workflows:
+  version: 2
+  main:
+    jobs:
+      - deploy
