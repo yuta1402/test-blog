@@ -13,6 +13,7 @@ jobs:
           command: |
             git config --global user.name "CircleCI"
             git config --global user.email "circleci@example.com"
+            make init
             make publish
 
 workflows:
