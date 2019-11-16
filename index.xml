@@ -13,20 +13,20 @@
     
     <item>
       <title>Second Post</title>
-      <link>https://yuta1402.github.io/test-blog/posts/2019-11-15-second-post/</link>
+      <link>https://yuta1402.github.io/test-blog/posts/20191115-second-post/</link>
       <pubDate>Fri, 15 Nov 2019 22:04:44 +0900</pubDate>
       
-      <guid>https://yuta1402.github.io/test-blog/posts/2019-11-15-second-post/</guid>
+      <guid>https://yuta1402.github.io/test-blog/posts/20191115-second-post/</guid>
       <description> about This is second post.
 languages  C++ go JavaScrip  </description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://yuta1402.github.io/test-blog/posts/2019-11-15-hello-world/</link>
+      <link>https://yuta1402.github.io/test-blog/posts/20191115-hello-world/</link>
       <pubDate>Fri, 15 Nov 2019 21:42:59 +0900</pubDate>
       
-      <guid>https://yuta1402.github.io/test-blog/posts/2019-11-15-hello-world/</guid>
+      <guid>https://yuta1402.github.io/test-blog/posts/20191115-hello-world/</guid>
       <description>This is first post.</description>
     </item>
     
