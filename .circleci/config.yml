@@ -4,10 +4,10 @@ jobs:
     docker:
       - image: cibuilds/hugo:latest
     steps:
-      - checkout
       - add_ssh_keys:
           fingerprints:
             - "${SSH_KEY_FINGERPRINT}"
+      - checkout
       - run:
           name: Deploy
           command: |
