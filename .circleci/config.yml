@@ -10,7 +10,11 @@ jobs:
             - "${SSH_KEY_FINGERPRINT}"
       - run:
           name: Deploy
-          command: make publish
+          command: |
+            git config --global user.name "CircleCI"
+            git config --global user.email "circleci@example.com"
+            make publish
+
 workflows:
   version: 2
   main:
