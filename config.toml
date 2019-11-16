@@ -4,8 +4,12 @@ title = "Test Blog"
 theme = "hugo-theme-minos"
 canonifyurls = true
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
-    smartToc = true
+  smartToc = true
 
 [menu]
 
