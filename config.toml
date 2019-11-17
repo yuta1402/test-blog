@@ -1,5 +1,5 @@
 baseURL = "https://yuta1402.github.io/test-blog/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "Test Blog"
 theme = "hugo-theme-minos"
 canonifyurls = true
