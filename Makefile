@@ -29,7 +29,7 @@ publish: ## Publish to the production
 	@./bin/publish_to_ghpages.sh
 
 help: ## Display the help
-	@echo "Usage:\n    hugo <command>"
+	@echo "Usage:\n    make <command>"
 	@echo ""
 	@echo "Commands:"
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "    \033[36m%-20s\033[0m %s\n", $$1, $$2}'
