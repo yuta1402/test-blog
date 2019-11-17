@@ -14,7 +14,7 @@ new: ## Add new post
 		echo "Usage:\n    make new title=<title>";\
 		exit 1;\
 	fi
-	@hugo new "posts/$(shell date +%Y%m%d)-$(title).md"
+	@hugo new "posts/$(shell date +%Y%m%d)-$(title).md" --editor "$(EDITOR)"
 
 edit: ## Edit post
 	$(eval selected := $(shell ls -d $(POSTS) | peco))
