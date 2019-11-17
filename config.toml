@@ -4,6 +4,8 @@ title = "Test Blog"
 theme = "hugo-theme-minos"
 canonifyurls = true
 
+disqusShortname = "test-blog-vlsjnmkuqh"
+
 [taxonomies]
   category = "categories"
   tag = "tags"
