@@ -11,7 +11,7 @@ build: ## Build hugo site
 
 new: ## Add new post
 	@if [ -z $(title) ]; then\
-		echo "Usage:\n\tmake new title=<title>";\
+		echo "Usage:\n    make new title=<title>";\
 		exit 1;\
 	fi
 	@hugo new "posts/$(shell date +%Y%m%d)-$(title).md"
