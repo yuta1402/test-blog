@@ -25,9 +25,6 @@ edit: ## Edit post
 watch: ## Watch file changes and build
 	@hugo server -D -w
 
-publish: ## Publish to the production
-	@./bin/publish_to_ghpages.sh
-
 help: ## Display the help
 	@echo "Usage:\n    make <command>"
 	@echo ""
